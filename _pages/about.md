@@ -36,7 +36,7 @@ A novel method for registration of MLS and stereo reconstructed point clouds
 
 **Xiaochen Yang**<sup>*</sup>, Haiping Wang<sup>*</sup>, Zhen Dong<sup>&dagger;</sup>, Yuan Liu, Yuhao Li, Bisheng Yang
 
-<span style="color:red">**TGARS (IF:8.2)**</span>
+<span style="color:red">**TGRS (IF:7.5)**</span>
 
 [[Paper]](https://ieeexplore.ieee.org/abstract/document/10500860), [[Code]](https://github.com/WHU-USI3DV/MSReg/)
 </div>
